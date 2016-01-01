@@ -1,0 +1,6 @@
+<root>
+    <item name='android.accounts.AccountManager'>
+        <annotation name='java.lang.annotation.Deprecated' />
+        <annotation name='org.jetbrains.annotations.NotNull' />
+    </item>
+</root>

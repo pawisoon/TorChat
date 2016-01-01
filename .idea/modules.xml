@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TorChat-for-Android-fcec2cd4680bcbd1a6f51e28dadc1edb8a1e9180.iml" filepath="$PROJECT_DIR$/TorChat-for-Android-fcec2cd4680bcbd1a6f51e28dadc1edb8a1e9180.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

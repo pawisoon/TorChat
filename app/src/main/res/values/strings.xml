@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TorChat</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_login">Login</string>
+    <string name="action_settings">Logout</string>
+    <string name="title_activity_main_panel">MainPanel</string>
+    <string name="title_section1">New Group</string>
+    <string name="title_section2">Contacts</string>
+    <string name="title_section3">Invite friends</string>
+    <string name="title_section4">Settings</string>
+    <string name="title_section5">TorChat FAQ</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example"></string>
+    <string name ="account_type">TorChat</string>
+    <string name="prefs_sync_summary">lel</string>
+    <string name="prefs_sync_title">le1</string>
+
+</resources>
